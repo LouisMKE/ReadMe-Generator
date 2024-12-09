@@ -43,6 +43,6 @@ npm test
 
 If you have any questions, you can reach me at [ljcary24@gmail.com](mailto:ljcary24@gmail.com).
 
-You can also find more of my work at [Louie_MKE](https://github.com/Louie_MKE).
+You can also find more of my work at [LouisMKE](https://github.com/Louie_MKE).
 
 This README.md file is a product of the generator in this repository.
